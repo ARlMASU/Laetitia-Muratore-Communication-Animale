@@ -96,6 +96,9 @@
 #nav-wrapper nav.show .ca-drop-down-menu ul {
   background: rgba(52, 29, 25, 0.75);
 }
+#nav-wrapper nav.show .hamburger-menu__header__logo {
+  pointer-events: auto;
+}
 #nav-wrapper nav .hamburger-menu__header {
   display: flex;
   flex-flow: row;
